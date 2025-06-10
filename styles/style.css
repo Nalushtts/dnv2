@@ -9,7 +9,7 @@
 body {
     font-family: 'Cascadia Code', monospace;
     color: var(--secondary-color);
-    background-color: #31465c;
+    background-color: var(--main-color);
 }
 
 h1, h2, h5 {
