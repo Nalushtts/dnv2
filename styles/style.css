@@ -8,7 +8,8 @@
 
 body {
     font-family: 'Cascadia Code', monospace;
-    color: var(--main-color);
+    color: var(--secondary-color);
+    background-color: #31465c;
 }
 
 h1, h2, h5 {
